@@ -52,3 +52,6 @@ Accepts a JSON payload detailing the building's location and the configuration o
     }
   }
 }
+```
+**Sample Output:**
+Returns the total yearly kWh, a month-by-month generation breakdown, and global weather triggers designed to drive front-end 3D weather particles (snow, clouds, sun).
